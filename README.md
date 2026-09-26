@@ -50,3 +50,19 @@ MEESHO-RESELLER-GROWTH-PIPELINE
 │
 └── part4_agent
     └── agent.py
+
+# Official Documentation Referenced
+
+The following official Python documentation was referenced while implementing the project:
+
+- Python `csv` module:
+  https://docs.python.org/3/library/csv.html
+
+- Python `sqlite3` module:
+  https://docs.python.org/3/library/sqlite3.html
+
+- Python `pathlib` module:
+  https://docs.python.org/3/library/pathlib.html
+
+- Python `sys` module:
+  https://docs.python.org/3/library/sys.html
