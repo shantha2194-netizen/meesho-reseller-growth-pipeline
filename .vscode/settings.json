@@ -1,6 +1,7 @@
 {
     "python.analysis.extraPaths": [
-        "./part2_python",
-        "./part3_narrative"
+        "./part2_engine",
+        "./part3_narrative",
+        "./part4_agent"
     ]
 }
