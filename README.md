@@ -50,7 +50,11 @@ meesho-reseller-growth-pipeline/
 ├── part1_sql/
 │   ├── queries.sql
 │   └── output/
-│       └── monthly_category_revenue.csv
+│       ├── monthly_category_revenue.csv
+│       ├── region_revenue.csv
+│       ├── top_resellers.csv
+│       ├── zero_order_resellers.csv
+│       └── june_delivered_aov.csv
 │
 ├── part2_engine/
 │   ├── growth_engine.py
@@ -65,6 +69,7 @@ meesho-reseller-growth-pipeline/
 ├── part3_narrative/
 │   ├── prompt_pack.md
 │   ├── narrative_report.md
+│   ├── narrative.py
 │   └── masking.py
 │
 └── part4_agent/
